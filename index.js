@@ -100,6 +100,7 @@ let ucetambolunenler,
   tekraredensayilar;
 
 // 3a çözümü
+let enBuyuk = 
 
 /* kodlar buraya */
 
