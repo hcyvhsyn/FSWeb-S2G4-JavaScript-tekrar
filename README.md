@@ -1,4 +1,4 @@
-## JavaScript Tekrar By Emre
+## JavaScript Tekrar By Huseyn
 
 ## Amaçlar
 
